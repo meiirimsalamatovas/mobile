@@ -677,7 +677,7 @@ footer {
         height: auto;
     }
     .steps {
-        flex-direction: column;
+
         margin-top: 25px;
     }
 }
